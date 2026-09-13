@@ -158,7 +158,7 @@ increase their sales
 
 | Category | Tools |
 |---|---|
-| Data Preparation | SQL |
+| Data Preparation | SQL (sqlite3) |
 | Data Analysis | Python, Pandas |
 | Visualization | Matplotlib, Seaborn |
 | Statistical Analysis | SciPy |
